@@ -7,7 +7,7 @@
 *****************************************************************************/
 
 #include <memory>
-#include "../Programmat°/Qt-Dev/Projet_Qt_BFV/AjoutClient.h"
+#include "../../Programmat°/Qt-Dev/Projet_Qt_BFV/AjoutClient.h"
 #include <QtGui/qtextcursor.h>
 #include <QScreen>
 #include <QtCore/qmetatype.h>

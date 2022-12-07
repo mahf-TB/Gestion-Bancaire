@@ -7,7 +7,7 @@
 *****************************************************************************/
 
 #include <memory>
-#include "../Programmat°/Qt-Dev/Projet_Qt_BFV/MainWindow.h"
+#include "../../Programmat°/Qt-Dev/Projet_Qt_BFV/MainWindow.h"
 #include <QtGui/qtextcursor.h>
 #include <QScreen>
 #include <QtCore/qmetatype.h>
